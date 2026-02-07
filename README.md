@@ -18,4 +18,4 @@ A Python program demonstrating what I’ve learned so far. It simulates a gradin
 ## How to Run
 1. Clone the repository:
    ```bash
-  git clone https://github.com
+  git clone https://github.com/snow-seeker/Python-Simple-Grading-Tool.git
